@@ -1,5 +1,5 @@
 # AI Voice-Controlled Smart Door System Using CNN
-# AI Voice-Controlled Smart Door System Using CNN
+
 
 ## Project Overview
 This project uses Convolutional Neural Networks (CNNs) and audio features to recognize voice commands and authenticate speakers. It demonstrates door opening and closing through a visual simulation developed in Google Colab.
